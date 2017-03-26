@@ -1,0 +1,23 @@
+.no-margin {
+  margin: 0px;
+}
+
+.no-padding {
+  padding: 0px;
+}
+
+.p {
+  margin: 5px;
+}
+ul {
+  list-style: none;
+}
+
+.footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 40px;
+  border-top: 1px solid #eee;
+  background-color: black;
+  text-decoration-color: white;
+}
